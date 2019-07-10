@@ -1,4 +1,4 @@
-# DesafioMuxi
+# Des.Muxi
 
 - Cada questão foi implementada em um arquivo .c diferente para facilitar a compreensão da solução.
 - O arquivo main.c executa todas as soluções de uma vez.
