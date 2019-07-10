@@ -64,7 +64,7 @@ bool verifica_blocos_sudoku(int tabela[9][9]){
 }
 
 
-//Se as linhas, as colunas e cada sub-bloco tiver a soma 45, que é a soma de 1 até 9, então a tabela está OK
+//Se as linhas, as colunas e cada sub-bloco tiver a soma 45, que é o somatório de 1 até 9, então a tabela está OK
 //Do contrário existe problema ou nas linhas, ou colunas ou sub-blocos, sendo que caso haja erro ele aparecerá
 //em uma das três funções de verificação.
 bool verifica_tabela_sudoku(int tabela[9][9]){
