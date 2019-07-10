@@ -8,5 +8,3 @@
 - Qualquer dúvida quanto a implmentação ou qualquer outro detalhe, pode entrar em contato através dos seguintes meios:
   E-mail 1: erickvinsan@gmail.com
   E-mail 2: erickvaladares@id.uff.br
-  Telefone: (21) 3708-1403
-  Celular: +55 21 99567-5609
